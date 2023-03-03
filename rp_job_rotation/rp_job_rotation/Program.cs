@@ -30,6 +30,11 @@
 			Console.WriteLine("valor nao encontrado");
 			return false;
 		}
+		
+		OBS: A resposta acima é a original. Conferindo depois eu me toquei que poderia ter colocado
+			a comparação do "value" na condição de um while e, dentro dele, usado três variáveis
+			para andar pela sequência, dai não precisaria do último parâmetro nem da lista, 
+			mas na pressa fui com a primeira ideia que veio na cabeça.
 		*/
 
 		/*
